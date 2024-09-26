@@ -1,4 +1,8 @@
-Training YOLOv3 Object Detector - Snowman
+# Training YOLOv3 : Deep Learning based Custom Object Detector
+
+**This repository contains the code for [Training YOLOv3 : Deep Learning based Custom Object Detector](https://learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/) blog post**.
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/y7nhwlcwdy5x923/AABNYP3WuaZlAE_Oz5sT-8usa?dl=1)
 
 1. Install awscli
 
@@ -43,3 +47,14 @@ make
 
 `python3 object_detection_yolo.py --image=snowmanImage.jpg`
 
+
+
+# AI Courses by OpenCV
+
+Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
+
+<a href="https://opencv.org/courses/">
+<p align="center"> 
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
+</p>
+</a>

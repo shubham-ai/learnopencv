@@ -1,4 +1,11 @@
-## Character Classification (of Synthetic Dataset) using Keras (modified LeNet)
+# Deep Learning based Character Classification using Synthetic Dataset
+
+This repository contains code for the blog post [Deep Learning based Character Classification using Synthetic Dataset](https://learnopencv.com/deep-learning-character-classification-using-synthetic-dataset/).
+
+<img src="https://learnopencv.com/wp-content/uploads/2019/06/LeNet.png" alt="Character Classification" width="900">
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/scl/fo/pm77bjh1ugopxeb3mfwnt/h?dl=1&rlkey=yh1wy8h1ati0erfmxqplntqtv)
+
 
 **Step 1:**
 
@@ -27,3 +34,14 @@ Training the model on the given dataset. A modified LeNet structure has been use
 In order to predict the digit or character in an image, execute the following command. Give the test image path as the argument. 
 
 `python3 make_predictions.py <image_path>`
+
+
+# AI Courses by OpenCV
+
+Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
+
+<a href="https://opencv.org/courses/">
+<p align="center"> 
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
+</p>
+</a>

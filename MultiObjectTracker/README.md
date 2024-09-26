@@ -1,5 +1,8 @@
 # Multi Object Tracking using OpenCV
-This repository contains the code for [MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) blog.
+This repository contains the code for [MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) blog post.
+
+
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/scl/fo/ka8whjy25yqe003zte8vs/h?dl=1&rlkey=ndneo59isy0q4ve2dqswqk74u)
 
 ## Instructions for C++ code
 1. Download the code and extract the downloaded file, if required.
@@ -34,3 +37,14 @@ To do the same for Python code, edit `trackerType` variable in [line number 46](
 
 ## GOTURN Tracker
 For instructions regarding how to use GOTURN tracker, please refer to the blog on [GOTURN: Deep Learning based Object Tracking](https://www.learnopencv.com/goturn-deep-learning-based-object-tracking) and the corresponding [GitHub repository](https://github.com/spmallick/learnopencv/tree/master/GOTURN).
+
+
+# AI Courses by OpenCV
+
+Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
+
+<a href="https://opencv.org/courses/">
+<p align="center"> 
+<img src="https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png">
+</p>
+</a>
